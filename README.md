@@ -86,8 +86,7 @@ while True:
 ```
 ### Wiring
 
-![WiringSolution](images/I2C_M4_Solution.png)
-
+![WiringSolution](
 
 
 
